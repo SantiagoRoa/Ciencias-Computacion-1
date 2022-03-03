@@ -1,4 +1,4 @@
-# Ejercicios Curso de Fundamenos de Bases de Datos
+# Ejercicios Curso de Ciencias de la Computación 1
 ### Universidad Distrital Francisco José de Caldas
 
 ### Descargo de responsabilidad
