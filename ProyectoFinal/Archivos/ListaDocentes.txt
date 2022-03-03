@@ -1,0 +1,9 @@
+Camilo Ortiz 1 100008
+Laura Torres 1 100006
+Andres Perez 1 100001
+Miguel Lopez 2 100003
+Diego Garcia 1 100004
+Diana Pulido 2 100002
+Juan Morales 1 100005
+Isaac Gamboa 2 100009
+Jose Sanchez 2 100007JuanPablo GomezParra 1 123456

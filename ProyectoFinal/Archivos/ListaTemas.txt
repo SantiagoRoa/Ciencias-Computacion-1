@@ -1,0 +1,10 @@
+123 estructuras
+456 pilas
+789 colas
+111 listas
+222 multilistas
+333 arboles
+444 apuntadores
+555 arbolesAVL
+666 algoritmos
+777 complejidad
